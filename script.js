@@ -1,33 +1,3 @@
-// let button = document.createElement('button');
-
-// button.innerText="click me!"
-// button.style.backgroundColor="red";
-// button.style.color="white";
-
-// let body = document.querySelector('body');
-
-// body.prepend(button);
-
-
-// let div = document.querySelector('#myid');
-// const handler = (e) => {
-//     if(div.classList[0]=== 'name'){
-//         div.classList.remove('name')
-//     }
-//     else{
-//     div.classList.add('name')
-//     }
-// }
-// div.addEventListener('mouseover',()=>{
-//     div.classList.add('name')
-//     div.classList.remove('change')
-// })
-// div.addEventListener('mouseout',()=>{
-//     div.classList.remove('name')
-//     div.classList.add('change')
-// })
-
-
 
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-btn")
